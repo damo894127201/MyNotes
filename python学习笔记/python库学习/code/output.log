@@ -1,0 +1,38 @@
+2019-04-21 16:59:36,365 - __main__ - INFO - This is a log info
+2019-04-21 16:59:36,367 - __main__ - WARNING - Warning exists
+2019-04-21 16:59:36,368 - __main__ - INFO - Finsh
+2019-04-21 17:23:39,016 - __main__ - INFO - This is a log info 
+2019-04-21 17:23:41,086 - __main__ - DEBUG - Debugging
+2019-04-21 17:23:43,121 - __main__ - WARNING - Warning exists
+2019-04-21 17:23:45,142 - __main__ - INFO - Finish
+2019-04-21 19:41:16,114 - __main__ - INFO - Start
+2019-04-21 19:41:18,151 - __main__ - WARNING - Something maybe fail.
+2019-04-21 19:41:20,177 - __main__ - ERROR - Failed to get result
+Traceback (most recent call last):
+  File "<ipython-input-52-02091314db71>", line 23, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2019-04-21 19:41:22,187 - __main__ - INFO - Finshed
+2019-04-21 19:43:46,961 - __main__ - INFO - Start
+2019-04-21 19:43:48,993 - __main__ - WARNING - Something maybe fail.
+2019-04-21 19:43:51,054 - __main__ - ERROR - Failed to get result
+Traceback (most recent call last):
+  File "<ipython-input-53-9f7e9060493a>", line 23, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2019-04-21 19:43:53,115 - __main__ - INFO - Finshed
+2019-04-22 10:06:58,373 - __main__ - INFO - This is a log info
+2019-04-22 10:06:58,381 - __main__ - WARNING - Warning exists
+2019-04-22 10:06:58,381 - __main__ - INFO - Finsh
+2019-04-22 10:06:58,393 - __main__ - INFO - This is a log info 
+2019-04-22 10:07:00,455 - __main__ - DEBUG - Debugging
+2019-04-22 10:07:02,520 - __main__ - WARNING - Warning exists
+2019-04-22 10:07:04,552 - __main__ - INFO - Finish
+2019-04-22 10:07:06,680 - __main__ - INFO - Start
+2019-04-22 10:07:08,715 - __main__ - WARNING - Something maybe fail.
+2019-04-22 10:07:10,750 - __main__ - ERROR - Failed to get result
+Traceback (most recent call last):
+  File "<ipython-input-11-9f7e9060493a>", line 23, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2019-04-22 10:07:12,789 - __main__ - INFO - Finshed

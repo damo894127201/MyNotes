@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://localhost/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://localhost/france">
+    <ns1:located_in rdf:resource="http://localhost/europa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/germany">
+    <ns1:located_in rdf:resource="http://localhost/europa"/>
+    <ns1:has_border_with rdf:resource="http://localhost/france"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/china">
+    <ns1:has_border_with rdf:resource="http://localhost/korea"/>
+    <ns1:located_in rdf:resource="http://localhost/asia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/korea">
+    <ns1:located_in rdf:resource="http://localhost/asia"/>
+  </rdf:Description>
+</rdf:RDF>

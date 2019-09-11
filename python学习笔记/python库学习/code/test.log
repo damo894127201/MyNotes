@@ -1,0 +1,5 @@
+2019-04-21  13:54:38 Sun  root DEBUG log2.py msg1 
+2019-04-21  13:54:38 Sun  root INFO log2.py msg2 
+2019-04-21  13:54:38 Sun  root WARNING log2.py msg3 
+2019-04-21  13:54:38 Sun  root ERROR log2.py msg4 
+2019-04-21  13:54:38 Sun  root CRITICAL log2.py msg5 

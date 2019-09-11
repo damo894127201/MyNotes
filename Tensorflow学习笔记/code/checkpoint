@@ -1,0 +1,2 @@
+model_checkpoint_path: "iterator_state"
+all_model_checkpoint_paths: "iterator_state"

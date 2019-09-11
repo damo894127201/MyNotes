@@ -1,0 +1,16 @@
+2019-04-21 19:43:46,961 - __main__ - INFO - Start
+2019-04-21 19:43:48,993 - __main__ - WARNING - Something maybe fail.
+2019-04-21 19:43:51,054 - __main__ - ERROR - Failed to get result
+Traceback (most recent call last):
+  File "<ipython-input-53-9f7e9060493a>", line 23, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2019-04-21 19:43:53,115 - __main__ - INFO - Finshed
+2019-04-22 10:07:06,680 - __main__ - INFO - Start
+2019-04-22 10:07:08,715 - __main__ - WARNING - Something maybe fail.
+2019-04-22 10:07:10,750 - __main__ - ERROR - Failed to get result
+Traceback (most recent call last):
+  File "<ipython-input-11-9f7e9060493a>", line 23, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2019-04-22 10:07:12,789 - __main__ - INFO - Finshed

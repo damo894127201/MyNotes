@@ -1,0 +1,12 @@
+2019-04-21 20:04:32,927 - main - INFO - Main Info
+2019-04-21 20:04:32,934 - main - ERROR - Main Error
+2019-04-21 20:04:32,934 - main.core - INFO - Core Info
+2019-04-21 20:04:32,946 - main.core - ERROR - Core Error
+2019-04-22 10:06:38,714 - main - INFO - Main Info
+2019-04-22 10:06:38,715 - main - ERROR - Main Error
+2019-04-22 10:06:38,715 - main.core - INFO - Core Info
+2019-04-22 10:06:38,715 - main.core - ERROR - Core Error
+2019-04-22 10:07:15,551 - main - INFO - Main Info
+2019-04-22 10:07:15,557 - main - ERROR - Main Error
+2019-04-22 10:07:15,560 - main.core - INFO - Core Info
+2019-04-22 10:07:15,567 - main.core - ERROR - Core Error
